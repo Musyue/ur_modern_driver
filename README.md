@@ -2,6 +2,7 @@
 
 
 ## Deprecation notice
+**note**:Change controller_it->hardware_interface  to controller_it->type to fix controller_it->hardware_interface error when catkin make
 
 **note**: the `master` branch contains a deprecated version of this driver, kept for archival purposes only.
 
